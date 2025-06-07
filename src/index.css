@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.main-content {
+  min-height: calc(100vh - 120px); /* Ajusta según la altura de tu navbar y footer */
+  padding: 20px;
+}

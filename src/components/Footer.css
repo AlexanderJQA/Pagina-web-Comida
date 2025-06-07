@@ -1,0 +1,10 @@
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: sticky; /* O 'fixed' si quieres que esté siempre visible */
+  bottom: 0;
+  width: 100%;
+  margin-top: 40px;
+}
